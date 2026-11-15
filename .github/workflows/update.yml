@@ -23,6 +23,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      # Runs queue behind each other; start from the newest main, not the commit that triggered this run.
+      - run: git pull --ff-only origin main
       - run: python tools/update.py
       - name: Commit if changed
         run: |
