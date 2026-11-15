@@ -28,7 +28,7 @@
 | :-- | :-- |
 | **AI data** | SFT and RL data review, adversarial prompting, rubric design, model evaluation, annotation QC |
 | **Physics** | Classical mechanics, particle physics, modern physics |
-| **Teaching** | Cambridge IGCSE and AS & A Level Physics and Mathematics |
+| **Teaching** | Physics and Mathematics for CBSE, ICSE, GCSE, IGCSE, Edexcel, AS & A Level and the Australian board |
 | **Code** | Python, Bash, Go, TypeScript, HTML/CSS/JS, LaTeX |
 | **Learning** | Data analytics and machine learning |
 
