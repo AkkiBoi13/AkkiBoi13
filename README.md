@@ -15,11 +15,11 @@
 #### ⚡ Right now
 
 <!-- live:start -->
-☉ &nbsp;The solar wind is reaching Earth at **372 km/s**, the Kp index is **3.0** (a quiet magnetosphere), and the 10.7 cm flux is **121 sfu** (an active Sun).
+☉ &nbsp;The solar wind is reaching Earth at **402 km/s**, the Kp index is **2.3** (a quiet magnetosphere), and the 10.7 cm flux is **121 sfu** (an active Sun).
 
-ν &nbsp;[Beatrixe](https://github.com/AkkiBoi13/Beatrixe/releases/latest) release details are unavailable right now.
+ν &nbsp;[Beatrixe v0.1.7](https://github.com/AkkiBoi13/Beatrixe/releases/tag/v0.1.7) came out on 15 November 2026 and its files have been downloaded **6** times.
 
-<sub>Updated 08:24 IST, 18 Nov 2026. Data: NOAA SWPC and GitHub.</sub>
+<sub>Updated 17:13 IST, 18 Nov 2026. Data: NOAA SWPC and GitHub.</sub>
 <!-- live:end -->
 
 #### 🧰 Skills
